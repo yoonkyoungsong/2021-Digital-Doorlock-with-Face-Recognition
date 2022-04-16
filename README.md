@@ -7,6 +7,8 @@ Prof. y.k.kim
 HGU
 2021.06
 
+This report: https://ykkim.gitbook.io/dlip/dlip-project/dlip-projects/untitled-1
+
 ## Configuration
 + OS:Windows 10 and Ubuntu 
 (Basically the program code is nearly same with Windows and Ubuntu. face_recog_realtime.py is the only python program code which is used in Ubuntu.)
